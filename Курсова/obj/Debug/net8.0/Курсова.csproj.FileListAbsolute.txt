@@ -1,0 +1,14 @@
+C:\Users\Andre\source\repos\Курсова\Курсова\bin\Debug\net8.0\Курсова.exe
+C:\Users\Andre\source\repos\Курсова\Курсова\bin\Debug\net8.0\Курсова.deps.json
+C:\Users\Andre\source\repos\Курсова\Курсова\bin\Debug\net8.0\Курсова.runtimeconfig.json
+C:\Users\Andre\source\repos\Курсова\Курсова\bin\Debug\net8.0\Курсова.dll
+C:\Users\Andre\source\repos\Курсова\Курсова\bin\Debug\net8.0\Курсова.pdb
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.dll
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\refint\Курсова.dll
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.pdb
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\Курсова.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Курсова\Курсова\obj\Debug\net8.0\ref\Курсова.dll
